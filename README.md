@@ -24,6 +24,3 @@ The name and descriptions are strings, and the dates are dates.
 <img width="499" alt="Screenshot 2024-05-08 at 10 48 29 PM" src="https://github.com/RobertPendergrast/WebDevBackend/assets/121700465/53bba583-04c9-452e-b668-b4c9313b7ca7">
 
 
-## Future Plans
-I have several planned features that I will be working on to advance the capabilities of this engine, including but not limited to:
-  1. An entity class that generates autonomously controlled creatures and ememies. Entities will be customizable.
