@@ -8,6 +8,7 @@ This repository makes up half of the MyNationalParks webapp. The backend code is
 The programming uses HTTP requests (GET, POST, DELETE, PATCH) to take user-inputted data from the frontend and send it to the database. The application also sends data from the database to the frontend.
 
 Here is a snippet of the request logic:
+
 <img width="376" alt="Screenshot 2024-05-08 at 10 50 16 PM" src="https://github.com/RobertPendergrast/WebDevBackend/assets/121700465/e6abfc81-d0f4-4d8d-b302-a2642f9a96b4">
 
 
